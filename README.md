@@ -28,11 +28,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 
-## 💻 Projeto
+## 💻 Descrição
 
 Essa interface é um formulário de inscrição que possui validação de campos e customizações avançadas de css. 
 
 - [Acesse o projeto finalizado, online](https://andresa43.github.io/formulario-inscricao/)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/kBMLJ4WmDFTtrDkbjmzIaI/Explorer-Stage-03-Projeto-01-(Copy)?node-id=1-28&t=piS3S9lEOBvseLS2-0). É necessário ter conta no [Figma](https://figma.com/) para acessá-lo.
 
 ## :memo: Licença
 
